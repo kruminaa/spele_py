@@ -57,5 +57,7 @@ def minesana():
 
 if __name__ == "__main__":
     minesana()
-        
+
        
+
+
