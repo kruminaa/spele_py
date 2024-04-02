@@ -2,7 +2,7 @@ import random
 
 #funkcija, kas izvēlas vārdu no vārdu saraksta
 def izvēlēties_vārdu():
-    vārdi = ['grāmata', 'saule', 'programmēšana', 'dators', 'zirgs', 'nakts', 'tiesnesis']
+   vārdi = ['grāmata', 'saule', 'programmēšana', 'dators', 'zirgs', 'nakts', 'tiesnesis', 'maize', 'dzīvoklis', 'bibliotēka']
     return random.choice(vārdi)
 
 #funkcija, kas attēlo vardu, kurā minētie burti ir atklati, bet visi parejie ir aizvietoti ar '_'
